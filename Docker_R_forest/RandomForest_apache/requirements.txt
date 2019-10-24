@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+numpy
+flask
+flasgger
+mod_wsgi
